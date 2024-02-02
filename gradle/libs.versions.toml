@@ -12,7 +12,7 @@ sqlDelight = "1.5.5"
 jib = "3.3.2"
 mysql = "8.0.33"
 logback = "1.4.8"
-inline-logger = "1.0.5"
+inline-logger = "1.0.6"
 
 [libraries]
 hikari = { module = "com.zaxxer:HikariCP", version.ref="hikari" }
