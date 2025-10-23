@@ -1,7 +1,7 @@
 [versions]
 coroutines = "1.7.2"
 datetime = "0.4.0"
-result = "1.1.18"
+result = "1.1.21"
 retry = "1.0.9"
 detekt = "1.23.0"
 hikari="5.0.1"
